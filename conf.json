@@ -9,8 +9,5 @@
     "enabledEvents": [
         "cardCreated"
     ],
-    "userIDs": {
-        "theangush": "138520076427984896"
-    },
     "prefix": "."
 }
