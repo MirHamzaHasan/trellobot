@@ -1,6 +1,5 @@
 {
-    "instructions": "Replace the following three values as appropriate, then rename this file to '.auth' (without '-template' at the end).",
-    "discordToken": "discord token goes here",
-    "trelloKey": "trello public key goes here",
-    "trelloToken": "trello app token goes here"
+    "discordToken": "ODk1OTcwNDIyNTIzMzE4Mjkz.YWATew.XDf6J8CHJm7pI0yCyCwW8zOhQJ0",
+    "trelloKey": "68c60f55cd4d8f20f3976f91392d9955",
+    "trelloToken": "dbcd3c97af92a1108691b46deefaa888958843b6dd03144f09f818fbc8df6fba"
 }
