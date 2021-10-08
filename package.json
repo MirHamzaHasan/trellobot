@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Angush/trellobot#readme",
   "dependencies": {
-    "discord.js":"@latest",
-    "trello-events":"@latest"
+    "discord.js": "^11.3.2",
+    "trello-events": "^0.1.6"
   },
   "nodemonConfig": {
     "ignore": ["*.md", ".latestActivityID"]
